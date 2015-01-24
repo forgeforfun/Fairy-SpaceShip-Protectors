@@ -26,6 +26,7 @@ public class Main {
         try{
             container = new AppGameContainer(new Game(TITLE));
             container.setDisplayMode(800, 600, false);
+            container.setShowFPS(false);
             container.start();
         }catch(SlickException e) {
             e.printStackTrace();
