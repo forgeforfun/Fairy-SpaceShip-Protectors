@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="FairySpaceProtectors">
+    <output-path>$USER_HOME$/Desktop/Fairy SpaceShipProtectors</output-path>
+    <root id="root">
+      <element id="artifact" artifact-name="Fairy SpaceShip Protectors:jar" />
+      <element id="directory" name="libraries">
+        <element id="dir-copy" path="$PROJECT_DIR$/libraries" />
+      </element>
+    </root>
+  </artifact>
+</component>

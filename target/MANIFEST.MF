@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Build-Jdk: 1.7.0_51
+Built-By: Elizabeth
+Created-By: IntelliJ IDEA
+Main-Class: org.javaforfun.fairyspaceshipprotectors.Main
+
